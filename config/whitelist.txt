@@ -3,9 +3,14 @@
 # This is the whitelist for the interface. Interfaces in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
-
-
-
+东方卫视,javascript://https://js.gohkh9.qzz.io/kankan.js?id=dfws
+上海新闻综合,javascript://https://js.gohkh9.qzz.io/kankan.js?id=shxwzh
+第一财经,javascript://https://js.gohkh9.qzz.io/kankan.js?id=dycj
+新纪实,javascript://https://js.gohkh9.qzz.io/kankan.js?id=jsrw
+五星体育,javascript://https://js.gohkh9.qzz.io/kankan.js?id=wxty
+上海都市,javascript://https://js.gohkh9.qzz.io/kankan.js?id=shds
+哈哈炫动,javascript://https://js.gohkh9.qzz.io/kankan.js?id=hhxd
+魔都眼,javascript://https://js.gohkh9.qzz.io/kankan.js?id=mdy
 
 [KEYWORDS]
 # 以下是关键字白名单，含有关键字的地址会被加入白名单，换行输入。
